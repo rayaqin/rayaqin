@@ -1,6 +1,6 @@
 ## I'm currently working at [Hearsay Systems](https://www.hearsaysystems.com/solutions/hearsay-actions) as a software developer.
 
-## Virtual connection points
+## Virtual connection points:
 <p align="left">
   <a href="mailto:balint.ujvari@protonmail.com" target="blank"
     ><img
@@ -37,7 +37,7 @@
 </p>
 
 
-## Languages and Tools
+## Languages and Tools:
 <p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
