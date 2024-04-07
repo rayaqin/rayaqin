@@ -1,4 +1,4 @@
-## I'm currently working at [Hearsay Systems](https://www.hearsaysystems.com/solutions/hearsay-actions), as a software developer.
+## I'm currently working at [Hearsay Systems](https://www.hearsaysystems.com/solutions/hearsay-actions) as a software developer.
 
 ## Virtual connection points
 <p align="left">
