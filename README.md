@@ -6,7 +6,6 @@
 
 ## You can reach me via e-mail at  <a href="mailto:balint.ujvari@protonmail.com">**balint.ujvari@protonmail.com**</a>
 
-<br/>
 
 ## Virtual connection points
 <p align="left">
@@ -36,7 +35,6 @@
   /></a>
 </p>
 
-<br/>
 
 ## Languages and Tools
 <p align="left">
@@ -167,7 +165,6 @@
   </a>
 </p>
 
-<br/>
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayaqin&show_icons=true&locale=en&layout=compact" alt="rayaqin" /></p>
