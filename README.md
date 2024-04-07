@@ -1,34 +1,38 @@
 ## I'm currently working at [Hearsay Systems](https://www.hearsaysystems.com/solutions/hearsay-actions)
 
-
-## You can reach me via e-mail at  <a href="mailto:balint.ujvari@protonmail.com">**balint.ujvari@protonmail.com**</a>
-
-
 ## Virtual connection points
 <p align="left">
+  <a href="mailto:balint.ujvari@protonmail.com" target="blank"
+    ><img
+      align="center"
+      src="https://static-00.iconduck.com/assets.00/protonmail-icon-512x512-3an9f0i8.png"
+      alt="email"
+      height="30"
+      width="30"
+  /></a>
   <a href="https://linkedin.com/in/balint-ujvari-hu" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="balint-ujvari-hu"
       height="30"
-      width="40"
-  /></a>
+      width="30"
+  /></a>   
   <a href="https://stackoverflow.com/users/8009527" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
       alt="8009527"
       height="30"
-      width="40"
-  /></a>
+      width="30"
+  /></a>   
   <a href="https://fb.com/ingence" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="ingence"
       height="30"
-      width="40"
+      width="30"
   /></a>
 </p>
 
