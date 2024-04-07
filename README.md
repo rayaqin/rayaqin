@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=800&color=47FF9B&repeat=true&random=false&width=700&lines=My+name+is+B%C3%A1lint.;A+software+developer+from+Hungary.;Follow+the+white+rabbit...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=800&color=47FF9B&repeat=true&random=false&width=1200&lines=My+name+is+B%C3%A1lint.;A+software+developer+from+Hungary.;Follow+the+white+rabbit...)](https://git.io/typing-svg)
 
 ## I'm currently working at [Hearsay Systems](https://www.hearsaysystems.com/solutions/hearsay-actions)
 
