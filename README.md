@@ -2,7 +2,6 @@
 
 ## I'm currently working at [Hearsay Systems](https://www.hearsaysystems.com/solutions/hearsay-actions)
 
-<br/>
 
 ## You can reach me via e-mail at  <a href="mailto:balint.ujvari@protonmail.com">**balint.ujvari@protonmail.com**</a>
 
