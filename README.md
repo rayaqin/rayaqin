@@ -162,8 +162,9 @@
   </a>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1200&color=47FF9B&random=true&width=1250&height=100&lines=Choose+not+a+life+of+imitation;If+you+don't+form+in+the+wet+sand%2C+you+don't+form+at+all;Follow+the+white+rabbit...;There's+always+a+siren+singing+you+to+shipwreck;It+is+sometimes+an+appropriate+response+to+reality+to+go+insane;The+one+who+has+the+most+is+the+most+content+with+the+least;The+sky+turns+green+where+I+end+and+you+begin;Similarity+is+reciprocal+regardless+of+time;Time+for+a+true+display+of+skill;Meet+the+real+world+coming+out+of+your+shell;The+waves+you+made+will+always+be)](https://git.io/typing-svg)
-
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayaqin&show_icons=true&locale=en&layout=compact" alt="rayaqin" /></p>
+
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1200&color=47FF9B&random=true&width=1250&height=100&lines=Choose+not+a+life+of+imitation;If+you+don't+form+in+the+wet+sand%2C+you+don't+form+at+all;Follow+the+white+rabbit...;There's+always+a+siren+singing+you+to+shipwreck;It+is+sometimes+an+appropriate+response+to+reality+to+go+insane;The+one+who+has+the+most+is+the+most+content+with+the+least;The+sky+turns+green+where+I+end+and+you+begin;Similarity+is+reciprocal+regardless+of+time;Time+for+a+true+display+of+skill;Meet+the+real+world+coming+out+of+your+shell;The+waves+you+made+will+always+be)](https://git.io/typing-svg)
