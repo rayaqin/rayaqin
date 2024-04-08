@@ -164,6 +164,14 @@
       height="40"
     />
   </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://vitejs.dev/logo-with-shadow.png"
+      alt="vite"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <br/>
