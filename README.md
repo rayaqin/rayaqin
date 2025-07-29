@@ -5,7 +5,7 @@
   <a href="mailto:balint.ujvari@protonmail.com" target="blank"
     ><img
       align="center"
-      src="https://static-00.iconduck.com/assets.00/protonmail-icon-512x512-3an9f0i8.png"
+      src="https://images.icon-icons.com/2407/PNG/512/protonmail_icon_146109.png"
       alt="email"
       height="30"
       width="30"
