@@ -118,7 +118,7 @@
   </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://static-00.iconduck.com/assets.00/babel-icon-512x512-d9xwsw55.png"
+      src="https://images.icon-icons.com/2389/PNG/512/babel_logo_icon_145464.png"
       alt="babel"
       width="40"
       height="40"
