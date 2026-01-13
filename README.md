@@ -168,7 +168,6 @@
     <img
       src="https://vite.dev/assets/vite-light.t8GCa_VF.svg"
       alt="vite"
-      width="40"
       height="40"
     />
   </a>
