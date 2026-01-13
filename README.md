@@ -166,9 +166,10 @@
   </a>
   <a href="https://vite.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://vite.dev/assets/vite-light.t8GCa_VF.svg"
+      src="https://icon.icepanel.io/Technology/svg/Vite.js.svg"
       alt="vite"
       height="40"
+      width="40"
     />
   </a>
 </p>
