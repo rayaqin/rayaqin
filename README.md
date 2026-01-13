@@ -164,9 +164,9 @@
       height="40"
     />
   </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://vitejs.dev/logo-with-shadow.png"
+      src="https://vite.dev/assets/vite-light.t8GCa_VF.svg"
       alt="vite"
       width="40"
       height="40"
@@ -175,8 +175,6 @@
 </p>
 
 <br/>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rayaqin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
